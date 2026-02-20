@@ -1,8 +1,3 @@
-# Streamlining-Ticket-Assignment-for-Efficient-Support-Operations
-Here is the clean content. Copy and paste into your `README.md`.
-
----
-
 # Streamlining Ticket Assignment for Efficient Support Operations
 
 ## Project Overview
